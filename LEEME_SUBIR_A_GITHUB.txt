@@ -1,0 +1,34 @@
+GUÍA HAMILTON-T1 · GitHub Pages · versión offline SW 3.1.x
+
+INSTRUCCIONES (Android o PC)
+1) Extrae el ZIP en tu teléfono/ordenador.
+2) En GitHub entra en el repositorio Hamilton-T1-manual.
+3) En Code > Add file > Upload files, sube TODOS los archivos y la carpeta figuras_oficiales_31x.
+   Asegura que index.html quede en la RAÍZ, NO dentro de HAMILTON_T1_GITHUB_LISTO.
+4) Confirma con Commit changes en la rama main.
+5) Settings > Pages > Build and deployment > Source: Deploy from a branch > main / (root) > Save.
+6) Tras publicar: https://xesco-cpu.github.io/Hamilton-T1-manual/
+7) En Android abre en Chrome, menú ... > Instalar aplicación / Añadir a pantalla de inicio.
+8) ABRE LA APLICACIÓN UNA VEZ CON RED y comprueba que cargan todas las figuras.
+9) Activa el modo avión y abre la app: los montajes, las tablas y las capturas siguen disponibles.
+
+DESCARGA ALTERNATIVA
+El archivo HAMILTON_T1_GUIA_COMPLETA_OFFLINE_31x.html es una versión AUTÓNOMA
+(ya generada aparte) y no necesita GitHub para visualizar las capturas offline.
+
+FUENTE
+Manual del operador HAMILTON-T1 3.1.x, 10101881/02 (2024), PDF aportado.
+Capturas originales incluidas: figuras 2-7 a 2-11 y páginas de calibración
+(capítulos 3, 5 y 6). Ninguna conexión clínica ha sido redibujada.
+
+DERECHOS DE AUTOR / PUBLICACIÓN
+Hamilton Medical AG reserva los derechos del manual y de sus figuras.
+El documento indica que su reproducción y transmisión requieren consentimiento
+previo y por escrito. Consulta u obtén esa autorización antes de publicar estas
+figuras en un repositorio GitHub PÚBLICO.
+
+ADVERTENCIA MÉDICA
+Guía no oficial de consulta, para profesionales sanitarios. No sustituye el
+manual del operador ni los protocolos clínicos; verifica la versión del equipo
+y las opciones instaladas. Ante prueba preoperacional fallida, no utilizar
+el respirador con el paciente.
